@@ -1,2 +1,1 @@
-# django
-django boyicha kodlar
+Ushbu Repozitoriyda python django kodlari joylangan
