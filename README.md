@@ -1,0 +1,2 @@
+# django
+django boyicha kodlar
